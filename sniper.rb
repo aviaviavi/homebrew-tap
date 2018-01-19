@@ -30,6 +30,7 @@ class Sniper < Formula
         <string>#{plist_name}</string>
         <key>ProgramArguments</key>
         <array>
+        <string>#{opt_bin}/sniper</string>
         </array>
         <key>KeepAlive</key>
         <true/>
