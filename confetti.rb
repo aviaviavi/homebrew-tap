@@ -1,8 +1,8 @@
 class Confetti < Formula
   desc "A simple config file swapping tool"
   homepage "https://github.com/aviaviavi/confetti"
-  url "https://github.com/aviaviavi/confetti/releases/download/0.3.1/confetti-0.3.1-mac.tar.gz"
-  sha256 "1edafcc5f6c9ab0835edb9d3d48b3edde1b14021ab79da69cbc67d58b91a055b"
+  url "https://github.com/aviaviavi/confetti/releases/download/1.0.0/confetti-1.0.0-mac.tar.gz"
+  sha256 "aea6d79c3e475d1e0ccf034a1903789a65ef3851b0b9d0c453af408ff40a76fa"
 
   bottle :unneeded
 
