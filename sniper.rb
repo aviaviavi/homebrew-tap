@@ -1,8 +1,8 @@
 class Sniper < Formula
   desc "Patiently waits for iTunes to start and shoots on sight"
   homepage "https://github.com/aviaviavi/sniper"
-  url "https://github.com/aviaviavi/sniper/releases/download/v0.0.1-alpha/sniper"
-  sha256 "a86397f412382b2bc24098bbc563d4eedac2488b30e49ad02f864d8b12f2744f"
+  url "https://github.com/aviaviavi/sniper/releases/download/v0.0.2-alpha/sniper"
+  sha256 "5ae5291fba2df28b1eba1d335851cbc22d1251db3cbb19cf94684b579541b744"
 
   bottle :unneeded
 
